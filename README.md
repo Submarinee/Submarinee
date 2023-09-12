@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I an currently a graduate at LIESMARS, Wuhan University, supervised by Prof. Yanfei Zhong. My research interests are superresolution , multimodal information fusion and change detection.
-- - 👯 I’m looking to collaborate with you~
+- 👯 I’m looking to collaborate with you~
