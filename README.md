@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on superresolution and change detection.
-![Subamrinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subamrinee&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+![Subamrinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subamrinee&hide=contribs,prs)
