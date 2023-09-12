@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on superresolution and change detection.
-![Subamrinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subamrinee&hide=contribs,prs)
+- 🔭 I an currently a graduate at LIESMARS, Wuhan University, supervised by Prof. Yanfei Zhong. My research interests are superresolution , multimodal information fusion and change detection.
+- - 👯 I’m looking to collaborate with you~
