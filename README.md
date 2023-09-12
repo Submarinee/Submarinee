@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with you~
 
 [![Submarinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Submarinee)](https://github.com/anuraghazra/github-readme-stats)
+
+![Submarinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
